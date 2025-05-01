@@ -1,0 +1,15 @@
+# Azure Cloud App Project
+
+Este projeto demonstra a criação de uma aplicação usando os recursos da plataforma Azure, como o Azure App Service e o Azure Container Apps, para hospedagem e gerenciamento de aplicativos em contêineres.
+
+## Funcionalidades:
+
+- **Escalabilidade automática** usando Azure Container Apps.
+- **Monitoramento e log** com Azure Monitor.
+- **Configuração de domínio personalizado** para a aplicação.
+
+## Tecnologias:
+
+- Azure App Service
+- Azure Container Apps
+- Azure DevOps
